@@ -27,7 +27,7 @@ DATASET
 
 dataset/
 
-	custlr/ (download from google drive: https://drive.google.com/file/d/1Pv35fecmvEbC4x8NjgwDDJAmXR1VobQL/view?usp=sharing)
+	custlr/
 	auged/: stores the original and augmented dataset and information to compile expanded dataset landmarks
 		custlrinfo101.csv: loader for the original 101 custlr dataset
 		train.csv: loader for the augmented training set
